@@ -1,0 +1,8 @@
+NVM
+
+virtual environment: setupEnv.sh
+  python3
+  pip3
+
+essential script and beautify: utility.sh and beautify.sh
+gdb beautify with: .gdbinit; Place it at ~
